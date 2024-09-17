@@ -1,5 +1,5 @@
 # Data Professional Survey Dashboard
-This dashboard visualizes the results of a survey conducted with 630 data professionals, offering insights into their demographics, job satisfaction, salaries, and preferences. It is divided into several sections that provide detailed analysis of the survey responses.
+This dashboard visualises the results of a survey conducted with 630 data professionals, offering insights into their demographics, job satisfaction, salaries, and preferences. It is divided into several sections that provide detailed analysis of the survey responses.
 
 ## Key Metrics
 - **Number of Survey Takers**: 630
@@ -36,7 +36,7 @@ This section provides a **Bar Chart** showing the most preferred programming lan
 ### Insights:
 **Python** is by far the most preferred language, with over 400 votes, followed by **R** and a smaller portion of other languages like **C/C++** and **Java**.
 ## 4. Difficulty to Break Into Data
-This **Donut Chart** visualizes how difficult respondents found it to break into the data industry.
+This **Donut Chart** visualises how difficult respondents found it to break into the data industry.
 
 - **Difficulty Ratings**:
 
