@@ -1,4 +1,5 @@
-# Data Professional Survey Dashboard
+# Data Professional Survey Dashboard ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 This dashboard visualises the results of a survey conducted with 630 data professionals, offering insights into their demographics, job satisfaction, salaries, and preferences. It is divided into several sections that provide detailed analysis of the survey responses.
 
 ## Key Metrics
